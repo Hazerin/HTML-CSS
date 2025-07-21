@@ -1,2 +1,3 @@
 # HTML-CSS
-HTML CSS tutorial
+
+Un sito estremamente semplice per prendere dimestichezza con HTML.
