@@ -3,6 +3,10 @@ body {
     color: white;
 }
 
+img {
+    max-width: 100%;
+}
+
 #first_div {
     background: pink;
 }
